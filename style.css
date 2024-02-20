@@ -53,3 +53,13 @@ table {
   table tr td:last-child {
     border-right: 0;
   }
+
+
+  .winning-line {
+    width: 315px;
+    height: 5px;
+    background-color: white;
+    align-self: center;
+    position: absolute;
+    z-index: 1;
+}
